@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfahadansari" alt="alfahadansari" /></a> </p>
 
-- 🌱 I’m currently learning **REACT NATIVE**
-
 - 💬 Ask me about **Mern Stack,TailwindCSS,Bootsrap**
 
 - 📫 How to reach me **afahadansari378@gmail.com**
