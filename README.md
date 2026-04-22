@@ -1,132 +1,85 @@
 <h1 align="center">Fahad Ansari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;I+build+real+business+systems;React+%7C+Node+%7C+AWS;From+Excel+Chaos+to+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Real+Business+Systems;React+%7C+Node+%7C+AWS" />
+</p>
+
+<p align="center">
+  Full Stack Developer | AWS (EC2, S3, RDS) | React, Next.js, Redux | Node.js, Express | Prisma ORM  
 </p>
 
 ---
 
-## 💼 What I Do
-
-I build **production-ready systems** that replace manual workflows and scale businesses.
-
-- Turn Excel-based operations into full SaaS platforms  
-- Design clean frontend + scalable backend architecture  
-- Handle deployment, CI/CD, and cloud infrastructure  
-- Focus on **real-world problem solving, not tutorials**
+## 🚀 What I Do
+- Build **production-ready systems** for real businesses  
+- Replace manual Excel workflows with automation  
+- Handle **end-to-end**: development → deployment → scaling  
 
 ---
 
-## 🚀 Core Tech
+## ⚡ Tech Stack (Core Only)
 
-**Frontend**
-- React.js (Vite)
-- Next.js
-- Redux
-- Tailwind / Custom UI
-
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-
-**Database**
-- Prisma ORM (multi-database)
-- MySQL / PostgreSQL / MongoDB
-
-**Cloud & DevOps**
-- AWS (EC2, S3, RDS)
-- CI/CD (GitHub → Deployments)
-- Image storage pipelines
-
-**Other**
-- Shopify (API-based automation)
-- WordPress (custom integrations)
-- AI Image Processing Tools
+**Frontend:** React, Next.js  
+**Backend:** Node.js, Express  
+**Database:** Prisma (MySQL, PostgreSQL, MongoDB)  
+**Cloud:** AWS (EC2, S3, RDS), Vercel  
+**Other:** Shopify, WordPress APIs  
 
 ---
 
-## 🧠 Featured Work (Real Problem Solving)
+## 🧠 Key Work
 
-### 🏗️ Construction ERP System (SaaS)
+<details>
+<summary><b>🏗️ Construction ERP System (Click to expand)</b></summary>
 
-A full business management system built for construction/facade companies.
+- Built full SaaS system replacing Excel workflow  
+- Project tracking, financials, expenses, purchase flow  
+- Automated reminders + approval system  
+- Multi-company architecture with role-based access  
 
-#### 🔹 What Problem I Solved
-Client was managing everything manually on Excel → errors, no tracking, no automation.
+**Impact:** Centralized operations, automation, scalability  
 
-#### 🔹 What I Built
-A complete ERP-like system handling:
+</details>
 
-- Project lifecycle (Enquiry → Work Order → Completion)
-- Financial tracking (payments, retention, dues)
-- Expense management (vendors, contractors, transport, office)
-- Purchase system (multi-supplier comparison → PO generation)
-- Automated due reminders (email + PDC tracking)
-- Approval workflows (multi-level control)
-- Multi-company SaaS architecture
-- Role-based access system
+<details>
+<summary><b>🧠 AI Image Adaptation Tool</b></summary>
 
-#### 🔹 Tech
-- React + Vite  
-- Node.js + Express  
-- MySQL + Prisma ORM  
-- JWT Auth  
-- Nodemailer automation  
+- Upload → resize → generate → refine via prompts  
+- Built for real usage, not demo  
 
-#### 🔹 Impact
-Replaced manual operations → centralized system → better tracking, automation, and scalability.
+</details>
 
----
+<details>
+<summary><b>🛒 Shopify & WordPress Automation</b></summary>
 
-### 🧠 AI Image Adaptation Tool
+- API-based blog publishing system  
+- Removed manual workflow completely  
 
-- Upload original image  
-- Select required output sizes  
-- Generate adapted images  
-- Refine outputs using prompts  
-
-👉 Built for practical use, not demo-level AI
+</details>
 
 ---
 
-### 🛒 Shopify & WordPress Automation
+## ⚙️ Deployment
 
-- Built blog publishing system via APIs  
-- Upload once → publish across platforms  
-- Removed manual posting workflow  
-
----
-
-## ⚙️ Deployment & Architecture
-
-- AWS EC2 → backend hosting  
-- AWS RDS → database  
-- AWS S3 → image storage  
-- GitHub CI/CD → automated deployment  
-
-I handle **end-to-end system delivery**:
-Development → Deployment → Automation
+- AWS (EC2, RDS, S3)
+- Vercel (Frontend)
+- CI/CD via GitHub
+- Domain + Email setup (Hostinger, GoDaddy)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfahadansari&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfahadansari&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=alfahadansari&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 🌐 Connect
-
 - LinkedIn: https://www.linkedin.com/in/alfahad-ansari
 
 ---
 
-## ⚡ Philosophy
-
-I don’t build projects for GitHub.
-
+## ⚡
 I build systems that businesses actually use.
